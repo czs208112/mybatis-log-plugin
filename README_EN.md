@@ -61,4 +61,5 @@ https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/manual
 `$5/year`
 
 ## Other Plugin
-[Smart Jump](https://plugins.jetbrains.com/plugin/14053-smart-jump) 
+* [Smart Jump](https://plugins.jetbrains.com/plugin/14053-smart-jump) 
+* [Toolset](https://plugins.jetbrains.com/plugin/14384-toolset) 
