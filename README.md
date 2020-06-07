@@ -59,12 +59,14 @@ https://plugins.jetbrains.com/plugin/13905-mybatis-log-plugin/manual
 
 ## 销售价格
 原始价格: `$5/year`  
-限时价格: `$1/year` (截止到7月1日)
-
-## 其他插件
-[Smart Jump](https://plugins.jetbrains.com/plugin/14053-smart-jump) 
+限时价格: `$1/year` (截止到7月1日)  
+**非正版IDE用户，请勿购买本插件！(无法激活)**
 
 ## 关于
-* [激活失败问题处理](https://github.com/kookob/mybatis-log-plugin/blob/master/activation.md)
 * [插件购买流程](https://github.com/kookob/mybatis-log-plugin/blob/master/buy.md)
+* [激活失败问题](https://github.com/kookob/mybatis-log-plugin/blob/master/activation.md)
 * [插件交流QQ群`875411635`](https://jq.qq.com/?_wv=1027&k=UysCVe9k)
+
+## 其他插件
+* [Smart Jump](https://plugins.jetbrains.com/plugin/14053-smart-jump) 
+* [Toolset](https://plugins.jetbrains.com/plugin/14384-toolset) 
